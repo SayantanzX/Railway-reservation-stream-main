@@ -32,7 +32,7 @@ A modern, web-based railway reservation system built with Streamlit and SQLite. 
 
 Before running this application, make sure you have the following installed:
 
-- Python 3.7 or higher
+- Python 3.9 or higher
 - pip (Python package installer)
 
 ## 🚀 Installation & Setup
