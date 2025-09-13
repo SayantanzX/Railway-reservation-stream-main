@@ -2,7 +2,7 @@
 
 A modern, web-based railway reservation system built with Streamlit and SQLite. This application provides a comprehensive solution for managing train bookings, seat reservations, and train administration.
 
-## 🚂 Features
+##  Features
 
 ### Train Management
 - **Add New Trains**: Add trains with details like train number, name, departure date, and destinations
@@ -21,21 +21,21 @@ A modern, web-based railway reservation system built with Streamlit and SQLite. 
 - **Intelligent Booking**: System automatically allocates the next available seat of the requested type
 - **Real-time Availability**: Check seat availability in real-time
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend**: Streamlit (Python web framework)
 - **Database**: SQLite (Lightweight, serverless database)
 - **Data Processing**: Pandas (Data manipulation and analysis)
 - **Language**: Python 3.x
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this application, make sure you have the following installed:
 
 - Python 3.9 or higher
 - pip (Python package installer)
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Install required dependencies**
    ```bash
@@ -52,7 +52,7 @@ Before running this application, make sure you have the following installed:
    - Navigate to `http://localhost:8501`
    - The application will automatically create the database and required tables
 
-## 🎯 How to Use
+##  How to Use
 
 ### For Administrators
 
@@ -80,4 +80,4 @@ The system uses a smart seat categorization algorithm:
 
 Each train has 50 seats, and the system automatically allocates the next available seat of the requested type.
 
-**Happy Traveling! 🚂✨**
+**Happy Traveling!**
